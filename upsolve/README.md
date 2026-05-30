@@ -214,19 +214,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 4. Push to the branch (`git push origin feature/AmazingFeature`)
 5. Open a Pull Request
 
-## 👨‍💻 Developers & Credits
-
-**Priyanshu Raj**
-- GitHub: [@priyanshuraj27](https://github.com/priyanshuraj27)
-- LinkedIn: [Priyanshu Raj](https://www.linkedin.com/in/priyanshu-raj-iiitn/)
-
-**Tanmay Tiwari**
-- GitHub: [@tanmaytiwarii](https://github.com/tanmaytiwarii)
-- LinkedIn: [Tanmay Tiwari](https://www.linkedin.com/in/tanmay-tiwari-30b1212a6/)
-
-
-
-
 ## 🙏 Acknowledgments
 
 - LeetCode for providing the platform
